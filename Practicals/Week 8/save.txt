@@ -1,0 +1,9 @@
+4
+3
+Brisbane International|bne
+Sydney International|syd
+Dubai International|dxb
+John F. Kennedy International|jfk
+1192|bne|syd|MON
+8|syd|dxb|SUN
+349|jfk|bne|WED
